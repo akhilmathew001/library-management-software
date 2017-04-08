@@ -1,4 +1,4 @@
 # Library Management Software
-A desktop application useful in school/college to manage library operations
+> A desktop application useful in school/college to manage library operations
 
-This depends on MySQL and Java 1.7
+> This depends on MySQL and Java 1.7
